@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\T13.3\bin\Debug\T13.3.exe.config
+C:\Users\Kab-35-6\Desktop\T13.3\bin\Debug\T13.3.exe
+C:\Users\Kab-35-6\Desktop\T13.3\bin\Debug\T13.3.pdb
+C:\Users\Kab-35-6\Desktop\T13.3\obj\Debug\T13.3.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\T13.3\obj\Debug\T13.3.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\T13.3\obj\Debug\T13.3.exe
+C:\Users\Kab-35-6\Desktop\T13.3\obj\Debug\T13.3.pdb
